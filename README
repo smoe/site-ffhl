@@ -1,10 +1,7 @@
 Gluon versions used for specific Lübeck Freifunk Firmware builds:
 
-<<<<<<< HEAD
-* 0.5.1: v2014.3.1
-=======
 * 0.6: v2014.4
->>>>>>> site-ffhl/master
+* 0.5.1: v2014.3.1
 * 0.5: v2014.3
 * 0.4.1: v2014.2
 * 0.4: v2014.1
