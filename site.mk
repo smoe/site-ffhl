@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-14 \
 	gluon-alfred \
-	gluon-announced \
 	gluon-autoupdater \
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
@@ -14,12 +13,14 @@ GLUON_SITE_PACKAGES := \
 	gluon-legacy \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
+	gluon-luci-mesh-vpn-fastd \
 	gluon-luci-portconfig \
 	gluon-luci-private-wifi \
 	gluon-luci-wifi-config \
 	gluon-next-node \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
+	gluon-respondd \
 	gluon-setup-mode \
 	gluon-status-page \
 	iwinfo \
