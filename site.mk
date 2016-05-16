@@ -1,5 +1,5 @@
 GLUON_SITE_PACKAGES := \
-	gluon-mesh-batman-adv-14 \
+	gluon-mesh-batman-adv-15 \
 	gluon-alfred \
 	gluon-autoupdater \
 	gluon-config-mode-autoupdater \
@@ -28,7 +28,7 @@ GLUON_SITE_PACKAGES := \
 	haveged
 
 
-DEFAULT_GLUON_RELEASE := 0.8.1
+DEFAULT_GLUON_RELEASE := 0.8.2+v15
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
